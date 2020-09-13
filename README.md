@@ -1,6 +1,7 @@
 # Hexoer  
 ### A python script to import plain markdown documents to hexo
-  
+[中文](https://github.com/zkkkillua/hexoer-import-plain-markdown-to-hexo/blob/master/README_CN.md#hexoer)  
+
 ### Features
 - Follow your configuration and scaffold.
 - Let hexo decide the new file name.
