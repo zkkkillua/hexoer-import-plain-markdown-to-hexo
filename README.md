@@ -13,7 +13,7 @@
 - time
   
 ### Usage
-1. Create a empty folder in your hexo blog directory.
+1. Create a empty folder in your hexo blog root directory.
 2. Move "hexoer.py" to the new folder.
 3. Copy your existing markdown files to the new folder.
 4. `python hexoer.py` and enjoy.
