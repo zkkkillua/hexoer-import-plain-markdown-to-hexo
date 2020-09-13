@@ -1,5 +1,6 @@
 # Hexoer  
 ### 将普通的markdown文档转换为hexo格式
+[EN](https://github.com/zkkkillua/hexoer-import-plain-markdown-to-hexo/blob/master/README.md#hexoer)  
   
 ### Features
 - 遵从你的hexo配置和文件模板。
